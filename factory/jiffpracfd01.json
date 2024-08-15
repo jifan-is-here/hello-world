@@ -1,0 +1,9 @@
+{
+	"name": "jiffpracfd01",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "771d8a2d-e0f0-44a6-bf88-917f17ba784e",
+		"tenantId": "88245c95-b2c7-4b93-8f43-b939aaea6bde"
+	}
+}
